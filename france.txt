@@ -1733,7 +1733,7 @@ Wolof
 მარგალური
 ייִדיש
 Yorùbá
-Vahcuengh
+ma deuxième ligne Vahcuengh
 Zeêuws
 中文
 文言
